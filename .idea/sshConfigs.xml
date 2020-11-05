@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="afsconnect1.njit.edu" id="f0bd898c-4483-44da-9e63-81ddca5b04da" port="22" nameFormat="DESCRIPTIVE" username="dgp38" />
+    </configs>
+  </component>
+</project>
